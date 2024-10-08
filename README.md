@@ -20,6 +20,12 @@ You may place whatever resources and documents in this repository that you wish.
 
 If you choose to document your reports in MarkDown similar to the way I do it, I have provided a [template](./template.md) which you are welcome to copy and use. Please give your report a name that starts with the date, followed by no more than 3 to 5 word title. (e.g. `MM_DD_YYYY-The-Incident-Of-The-Month.md`)
 
+## After Incident Review / Drawing Conclusions
+
+> "Dig into decisions from the perspective of the individuals who made those decisions. [Try] to see the [situation] from their eyes. [Work] to consider the messy reality that they were facing when they were making the decision; not the clean room conditions that your hindsight gives you. [Look] through the lens of positive intent, with the belief that everyone involved made the best decisions that they could with the information that they had."
+
+- [Nickolas Means, Who Destroyed Three Mile Island](https://youtu.be/1xQeXOz0Ncs?t=1591)
+
 ## License
 
 See the [LICENSE](LICENSE) file
